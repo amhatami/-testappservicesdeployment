@@ -1,0 +1,8 @@
+{
+    "app_id": "test-github-deployment-xmhke",
+    "config_version": 20210101,
+    "name": "test-GitHub-deployment",
+    "location": "US-VA",
+    "provider_region": "gcp-us-central1",
+    "deployment_model": "LOCAL"
+}
